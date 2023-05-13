@@ -1,10 +1,45 @@
-.middle{
-	display: flex;
-	padding-top: 40px;
-	gap: 1em;
-	height: ;
+
+.frist{
+	margin-top: 10vh;
 }
 
+
+.middle{
+	display: flex;
+	gap: 1em;
+	margin-top: 10vh;
+
+}
+.last{
+	margin-top: 10vh;
+	text-align: end;
+}
 a{
-	padding-top: 40px;
+	text-decoration:none;
+	color: black;
+	
+
+}
+.appah{
+	margin-top: 10vh;
+}
+.card{
+	margin-top: 5vh;
+	height: 60vh;
+}
+h5{
+	text-align: center;
+
+}
+
+.card-text{
+	text-align: center;
+}
+.footer{
+	margin-top: 10vh;
+}
+.blue{
+	background-color: #040273;
+	color:white;
+	padding-top: 10px;
 }
